@@ -1,17 +1,189 @@
-# 💫 About Me:
-I am a Computer Science undergraduate with a strong foundation in software engineering, artificial intelligence, and full-stack development. I have hands-on experience in building intelligent, scalable applications by integrating modern web technologies with AI-driven systems. My technical expertise includes Python and C++, along with practical exposure to large language models, automation workflows, and machine learning pipelines.<br><br>I have worked on developing AI-powered applications, MCP-based systems, and automated decision-making workflows using tools such as ChatGPT, Ollama, and n8n. My interests lie in artificial intelligence, backend development, and intelligent automation, with a focus on creating efficient, user-centric solutions that solve real-world problems.<br><br>I am highly motivated, adaptable, and continuously learning new technologies to enhance my technical skill set. I actively participate in hackathons, research-driven projects, and collaborative development environments, aiming to contribute meaningfully to innovative and impactful software solutions.
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vinesh+Kumar+Goswami;Computer+Science+Undergraduate;AI+%26+ML+Enthusiast;Full-Stack+Developer;Always+Learning+New+Technologies" />
+</p>
 
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@Vinesh K Goswami) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@V_Goswami) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vineshgoswami45@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VineshGoswami&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VineshGoswami&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VineshGoswami&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🚀 About Me
 
+I am a Computer Science undergraduate with a strong foundation in software engineering, artificial intelligence, and full-stack development. I specialize in building intelligent, scalable, and user-centric applications by integrating modern web technologies with AI-driven systems.
 
+I have hands-on experience working with large language models, AI automation workflows, and Model Context Protocol (MCP)-based architectures. My interests include artificial intelligence, backend development, intelligent automation, and data-driven systems. I actively participate in hackathons, internships, and collaborative projects, with a strong focus on solving real-world problems through technology.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🧠 Technical Skills
+
+### Programming Languages
+- Python  
+- C++
+- Javascript
+
+### Web Development
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap  
+- Streamlit  
+
+### Artificial Intelligence & Machine Learning
+- Machine Learning & Deep Learning  
+- Natural Language Processing (NLP)  
+- Large Language Models (LLMs)  
+- ChatGPT  
+- Ollama 3.2  
+- Model Context Protocol (MCP)  
+- AI Agent Workflows (n8n)  
+- MediaPipe  
+- OpenCV  
+- Uvicorn  
+
+### Python Libraries & Frameworks
+
+#### Backend & API Development
+- FastAPI  
+- Flask  
+- Uvicorn  
+
+#### Data Science & Data Analysis
+- NumPy  
+- Pandas  
+
+#### Data Visualization
+- Matplotlib  
+- Seaborn  
+
+#### Machine Learning & Deep Learning
+- Scikit-learn  
+- TensorFlow  
+- Keras  
+- PyTorch  
+
+#### Natural Language Processing (NLP)
+- Hugging Face Transformers  
+- SpaCy  
+- NLTK  
+
+#### Computer Vision
+- OpenCV  
+- MediaPipe  
+
+#### AI Application Development
+- Streamlit  
+- ChatGPT APIs  
+- Ollama  
+
+#### Automation & AI Workflows
+- n8n  
+- Model Context Protocol (MCP)  
+
+### Databases
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+
+### Tools & IDEs
+- Git & GitHub  
+- Visual Studio Code
+- PyCharm  
+- n8n
+- Visual Studio
+
+---
+
+## 💼 Experience
+
+### AI & ML Intern — Vartopia Pvt. Ltd.  
+**June 2025 | Mohali, Punjab**
+
+- Developed MCP-based server and client architecture using Python and Uvicorn.
+- Built structured AI automation pipelines and intelligent decision-making workflows.
+- Designed and deployed AI agent workflows using n8n.
+- Created AI-powered applications using ChatGPT and Ollama for text generation and Q&A systems.
+- Executed NLP tasks including summarization, automation, and data processing in collaborative environments.
+
+---
+
+## 🎓 Education
+
+### Bachelor of Technology in Computer Science  
+**Chandigarh University, Mohali, Punjab**  
+**Expected Graduation: August 2027**
+
+- CGPA: **8.69**
+- Departmental Student Representative (July 2025 – July 2026)
+
+---
+
+## 🏆 Achievements & Certifications
+
+- MCP Masterclass: Complete Guide to MCP in Python — Udemy  
+- Cloud Computing — IIT Kharagpur (77% with Silver Medal)  
+- Data Science with R — Chandigarh University  
+- Hackfest 2025 — Regional Round Participant  
+- Smart India Hackathon (SIH) 2025 — Regional Round (Top 100 Teams)  
+- Finalist — Riverathon 1.0 (National-Level Hackathon)  
+
+---
+
+## 📊 GitHub Statistics (Dark Theme)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VineshGoswami&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VineshGoswami&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VineshGoswami&theme=github-dark-blue" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VineshGoswami&theme=github-dark" />
+</p>
+
+---
+
+## 🏅 Badges
+
+![Python](https://img.shields.io/badge/Python-Programming-blue)
+![C++](https://img.shields.io/badge/C++-Programming-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ML-green)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-DL-red)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-orange)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Computer%20Vision-yellow)
+![Git](https://img.shields.io/badge/Git-Version%20Control-black)
+![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-black)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/Vinesh K Goswami/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 📫 Contact
+
+- **Email:** vineshgoswami45@gmail.com  
+- **Location:** Chandigarh, India  
+
+---
+
+⭐ *Thank you for visiting my profile. I am always open to collaboration, learning, and impactful opportunities.*
