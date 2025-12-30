@@ -21,9 +21,36 @@ I have hands-on experience working with large language models, AI automation wor
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,bootstrap,streamlit,fastapi,flask,opencv,tensorflow,pytorch,mysql,postgres,mongodb,git,github,vscode,pycharm&perline=8" />
+### 🔹 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js&perline=6" />
 </p>
+
+### 🔹 Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,streamlit&perline=6" />
+</p>
+
+### 🔹 Backend & API Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask&perline=6" />
+</p>
+
+### 🔹 Artificial Intelligence & Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=6" />
+</p>
+
+### 🔹 Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=6" />
+</p>
+
+### 🔹 Tools & IDEs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&perline=6" />
+</p>
+
 
 
 ## 💼 Experience
