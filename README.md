@@ -138,20 +138,19 @@ I have hands-on experience with Large Language Models (LLMs), AI automation work
 
 ---
 
-## 📊 GitHub Statistics (Dark Theme)
+## 📊 GitHub Statistics
+
+- 🔹 **Public Repositories:** Automatically updated on profile
+- 🔹 **Contributions:** Actively contributing to AI, ML, and backend projects
+- 🔹 **Primary Languages:** Python, C++, JavaScript
+- 🔹 **Focus Areas:** AI/ML, LLMs, Backend APIs, Automation
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=VineshGoswami&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VineshGoswami&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"
-    alt="Top Languages"
-  />
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/Code-C++-blue?style=flat&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-green?style=flat" />
+  <img src="https://img.shields.io/badge/Tools-FastAPI%20%7C%20Flask-lightgrey?style=flat" />
 </p>
 
 ---
@@ -159,10 +158,9 @@ I have hands-on experience with Large Language Models (LLMs), AI automation work
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=VineshGoswami&theme=dark&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://img.shields.io/badge/Status-Actively%20Contributing-success?style=flat" />
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Consistency-High-blueviolet?style=flat" />
 </p>
 
 ---
