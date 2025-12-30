@@ -140,12 +140,22 @@ I have hands-on experience with Large Language Models (LLMs), AI automation work
 
 ## 📊 GitHub Statistics
 
-- 🔹 **Public Repositories:** Automatically updated on profile
-- 🔹 **Contributions:** Actively contributing to AI, ML, and backend projects
-- 🔹 **Primary Languages:** Python, C++, JavaScript
-- 🔹 **Focus Areas:** AI/ML, LLMs, Backend APIs, Automation
+**1. Public Repositories**  
+Automatically updated on my GitHub profile.
 
-<p align="center">
+**2. Total Contributions**  
+Actively contributing to **AI, Machine Learning, and Backend projects**.
+
+**3. Primary Programming Languages**  
+Python, C++, JavaScript
+
+**4. Focus Areas**  
+Artificial Intelligence & Machine Learning (AI/ML),  
+Large Language Models (LLMs),  
+Backend APIs,  
+Automation
+
+<p align="left">
   <img src="https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/Code-C++-blue?style=flat&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript" />
