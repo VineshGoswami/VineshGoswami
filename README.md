@@ -18,84 +18,13 @@ I have hands-on experience working with large language models, AI automation wor
 
 ---
 
-## 🧠 Technical Skills
 
-### Programming Languages
-- Python  
-- C++
-- Javascript
+## 🛠️ Languages & Tools
 
-### Web Development
-- HTML5  
-- CSS3  
-- JavaScript  
-- Bootstrap  
-- Streamlit  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,bootstrap,streamlit,fastapi,flask,opencv,tensorflow,pytorch,mysql,postgres,mongodb,git,github,vscode,pycharm&perline=8" />
+</p>
 
-### Artificial Intelligence & Machine Learning
-- Machine Learning & Deep Learning  
-- Natural Language Processing (NLP)  
-- Large Language Models (LLMs)  
-- ChatGPT  
-- Ollama 3.2  
-- Model Context Protocol (MCP)  
-- AI Agent Workflows (n8n)  
-- MediaPipe  
-- OpenCV  
-- Uvicorn  
-
-### Python Libraries & Frameworks
-
-#### Backend & API Development
-- FastAPI  
-- Flask  
-- Uvicorn  
-
-#### Data Science & Data Analysis
-- NumPy  
-- Pandas  
-
-#### Data Visualization
-- Matplotlib  
-- Seaborn  
-
-#### Machine Learning & Deep Learning
-- Scikit-learn  
-- TensorFlow  
-- Keras  
-- PyTorch  
-
-#### Natural Language Processing (NLP)
-- Hugging Face Transformers  
-- SpaCy  
-- NLTK  
-
-#### Computer Vision
-- OpenCV  
-- MediaPipe  
-
-#### AI Application Development
-- Streamlit  
-- ChatGPT APIs  
-- Ollama  
-
-#### Automation & AI Workflows
-- n8n  
-- Model Context Protocol (MCP)  
-
-### Databases
-- MySQL  
-- PostgreSQL  
-- MongoDB  
-
-### Tools & IDEs
-- Git & GitHub  
-- Visual Studio Code
-- PyCharm  
-- n8n
-- Visual Studio
-
----
 
 ## 💼 Experience
 
