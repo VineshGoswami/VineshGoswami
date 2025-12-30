@@ -158,10 +158,9 @@ I have hands-on experience with Large Language Models (LLMs), AI automation work
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Actively%20Contributing-success?style=flat" />
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=flat" />
-  <img src="https://img.shields.io/badge/Consistency-High-blueviolet?style=flat" />
+  <img src="https://raw.githubusercontent.com/VineshGoswami/VineshGoswami/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
+
 
 ---
 
