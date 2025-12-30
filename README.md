@@ -141,11 +141,17 @@ I have hands-on experience with Large Language Models (LLMs), AI automation work
 ## 📊 GitHub Statistics (Dark Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VineshGoswami&show_icons=true&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=VineshGoswami&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VineshGoswami&layout=compact&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VineshGoswami&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -153,11 +159,10 @@ I have hands-on experience with Large Language Models (LLMs), AI automation work
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VineshGoswami&theme=github-dark-blue" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VineshGoswami&theme=github-dark" />
+  <img
+    src="https://streak-stats.demolab.com?user=VineshGoswami&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
