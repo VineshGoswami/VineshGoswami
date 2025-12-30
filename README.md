@@ -18,39 +18,112 @@ I have hands-on experience working with large language models, AI automation wor
 
 ---
 
+## ⚡ AI / ML Engineer Toolchain
 
-## 🛠️ Languages & Tools
-
-### 🔹 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js&perline=6" />
+<!-- ================= PROGRAMMING LANGUAGES ================= -->
+### ◈ Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js&size=56" />
 </p>
 
-### 🔹 Web Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,streamlit&perline=6" />
+---
+
+<!-- ================= WEB & APP ================= -->
+### ◈ Web & App Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,streamlit&size=56" />
 </p>
 
-### 🔹 Backend & API Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask&perline=6" />
+---
+
+<!-- ================= BACKEND ================= -->
+### ◈ Backend & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask&size=56" />
 </p>
 
-### 🔹 Artificial Intelligence & Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=6" />
+<p align="center">
+  <!-- UVICORN (Neon SVG) -->
+  <svg width="56" height="56" viewBox="0 0 100 100">
+    <rect width="100" height="100" rx="20" fill="#020617"/>
+    <text x="50" y="62" font-size="30" fill="#38BDF8" text-anchor="middle"
+      style="filter: drop-shadow(0 0 6px #38BDF8)">UV</text>
+  </svg>
 </p>
 
-### 🔹 Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=6" />
+---
+
+<!-- ================= AI / ML ================= -->
+### ◈ Artificial Intelligence & Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&size=56" />
 </p>
 
-### 🔹 Tools & IDEs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&perline=6" />
+---
+
+<!-- ================= PYTHON ECOSYSTEM ================= -->
+### ◈ Python AI / ML Ecosystem
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&size=56" />
 </p>
 
+---
+
+<!-- ================= LLM & AGENTS ================= -->
+### ◈ LLMs • Agents • Automation
+<p align="center">
+
+  <!-- CHATGPT -->
+  <svg width="56" height="56" viewBox="0 0 100 100">
+    <circle cx="50" cy="50" r="40" fill="#020617"
+      stroke="#22C55E" stroke-width="4"
+      style="filter: drop-shadow(0 0 8px #22C55E)" />
+    <text x="50" y="60" font-size="22" fill="#22C55E" text-anchor="middle">GPT</text>
+  </svg>
+
+  <!-- OLLAMA -->
+  <svg width="56" height="56" viewBox="0 0 100 100">
+    <rect width="100" height="100" rx="20" fill="#020617"/>
+    <circle cx="50" cy="50" r="26" stroke="#F97316" stroke-width="4" fill="none"
+      style="filter: drop-shadow(0 0 8px #F97316)" />
+    <text x="50" y="58" font-size="20" fill="#F97316" text-anchor="middle">LLM</text>
+  </svg>
+
+  <!-- MCP -->
+  <svg width="56" height="56" viewBox="0 0 100 100">
+    <rect width="100" height="100" rx="20" fill="#020617"/>
+    <path d="M20 50 L50 20 L80 50 L50 80 Z" fill="none" stroke="#38BDF8" stroke-width="4"
+      style="filter: drop-shadow(0 0 8px #38BDF8)" />
+    <text x="50" y="58" font-size="18" fill="#38BDF8" text-anchor="middle">MCP</text>
+  </svg>
+
+  <!-- n8n -->
+  <svg width="56" height="56" viewBox="0 0 100 100">
+    <rect width="100" height="100" rx="20" fill="#020617"/>
+    <circle cx="50" cy="30" r="6" fill="#FB7185"/>
+    <circle cx="30" cy="60" r="6" fill="#FB7185"/>
+    <circle cx="70" cy="60" r="6" fill="#FB7185"/>
+    <path d="M50 30 L30 60 L70 60 Z" stroke="#FB7185" stroke-width="3" fill="none"
+      style="filter: drop-shadow(0 0 8px #FB7185)" />
+  </svg>
+
+</p>
+
+---
+
+<!-- ================= DATABASES ================= -->
+### ◈ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&size=56" />
+</p>
+
+---
+
+<!-- ================= TOOLS ================= -->
+### ◈ Developer Tools & IDEs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&size=56" />
+</p>
 
 
 ## 💼 Experience
